@@ -19,12 +19,12 @@ result = 0
 if button:
     if choice == 'Addition':
         result = fnum + snum
-    if choice == 'Subtraction':
+    elif choice == 'Subtraction':
         result = fnum - snum
-    if choice == 'Multiplication':
+    elif choice == 'Multiplication':
         result = fnum * snum
-    if choice == 'Division':
-        if fnum != 0:
+    elif choice == 'Division':
+        if snum != 0:
             result = fnum / snum
         else:
             st.error('Cannot divide by zero')
