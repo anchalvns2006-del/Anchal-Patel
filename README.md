@@ -1,109 +1,165 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" alt="Anchal Patel — Full-Stack Developer and AI/ML Explorer" width="100%" />
-</p><p align="center">
-  <img src="https://avatars.githubusercontent.com/u/273596425?v=4" width="112" alt="Anchal Patel GitHub profile picture" />
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F0ABFC&center=true&vCenter=true&width=780&lines=Full-Stack+Development+%7C+Applied+AI%2FML;Building+useful+web+applications+and+data+products;Learning+by+building%2C+testing+and+shipping;Curious+mind.+Consistent+builder." alt="Animated introduction" />
-</p><p align="center">
-  <a href="https://linkedin.com/in/anchal-patel-59385a329"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/anchalvns2006-del"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/leet_anchal/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://x.com/royal01patel"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://img.shields.io/badge/Discord-anchalpatel__79048-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: anchalpatel_79048" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20BBDU-a855f7?style=flat-square" alt="B.Tech CSE at BBDU" />
-  <img src="https://img.shields.io/badge/Batch-2024%E2%80%942028-ec4899?style=flat-square" alt="2024 to 2028" />
-  <img src="https://img.shields.io/badge/CGPA-8.29%2F10-c084fc?style=flat-square" alt="CGPA 8.29 out of 10" />
-  <img src="https://img.shields.io/badge/OPEN_TO-SWE_INTERNSHIPS-f472b6?style=flat-square" alt="Open to software engineering internships" />
-</p>✦ About Me
-Hi, I'm Anchal Patel, a third-year B.Tech Computer Science & Engineering student at Babu Banarasi Das University, Lucknow (2024–2028). I enjoy building practical software, exploring applied machine learning, and turning data into useful products and insights.
-- What I build: Full-stack applications, REST APIs, analytics dashboards, and ML-powered prototypes.
-- What I enjoy: Solving practical problems, exploring data, designing useful interfaces, and learning by shipping projects.
-- Current focus: Java DSA, Python, backend engineering, and applied AI/ML.
-- Career direction: Software Engineering Internships and collaborative product development.
-✦ Selected Projects
-<p align="center">
-  <a href="https://github.com/anchalvns2006-del/RailNova-AI"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalvns2006-del&repo=RailNova-AI&bg_color=140C1F&title_color=F0ABFC&text_color=FCE7F3&icon_color=FB7185&hide_border=true" alt="RailNova AI repository card" /></a>
-  <a href="https://github.com/anchalvns2006-del/CodeOrbit-REST-API"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalvns2006-del&repo=CodeOrbit-REST-API&bg_color=140C1F&title_color=F0ABFC&text_color=FCE7F3&icon_color=FB7185&hide_border=true" alt="CodeOrbit REST API repository card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/anchalvns2006-del/CodeAlpha-Event-Registration"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalvns2006-del&repo=CodeAlpha-Event-Registration&bg_color=140C1F&title_color=F0ABFC&text_color=FCE7F3&icon_color=FB7185&hide_border=true" alt="EventSphere repository card" /></a>
-  <a href="https://github.com/anchalvns2006-del/DineFlow-Restaurant-Management"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalvns2006-del&repo=DineFlow-Restaurant-Management&bg_color=140C1F&title_color=F0ABFC&text_color=FCE7F3&icon_color=FB7185&hide_border=true" alt="DineFlow repository card" /></a>
-</p>🚆 RailNova AI — Railway Intelligence Dashboard
-A railway analytics and machine-learning project that explores route patterns and estimates timetable-derived journey duration.
-- Dataset: 186,074 station records and 11,113 train-route combinations.
-- Stack: Python, Pandas, NumPy, scikit-learn, Plotly, Streamlit.
-- Highlights: Route-level feature engineering, grouped model evaluation, model comparison, and an interactive dashboard.
-- Live dashboard: Open RailNova AI · Code: RailNova-AI
-<sub>Model scope: timetable-based journey-duration estimation; it is not a real-time train-delay prediction system.</sub>
-🛰️ OreSight AI — SIH PS26009 Concept
-A Smart India Hackathon concept exploring AI/ML and space technology for manganese-reserve prospectivity and mining intelligence. The work focuses on prospectivity mapping, production insights, equipment intelligence, and satellite-informed workflows. (A public repository link was not verifiable when this profile was prepared.)
-🎟️ EventSphere — Event Registration Platform
-A full-stack event registration application with authentication and event workflows. Stack: Node.js, Express, MongoDB, JWT, bcrypt. View repository
-🍽️ DineFlow — Restaurant Management
-A restaurant operations application covering menus, orders, reservations, inventory, and reports. Stack: Node.js, Express, MongoDB, JavaScript. View repository
-📊 Netflix Data Analysis
-An exploratory analysis of 8,790 Netflix records with 35 interactive Plotly visualizations. Stack: Python, Pandas, NumPy, Plotly. View repository
-🧩 More Builds
-- CodeOrbit To-Do App — task-management web application.
-- CodeOrbit Auth API — authentication API project.
-- CodeOrbit REST API — REST API backend project.
-✦ Technical Stack
-Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-Data, Machine Learning & Tools
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>✦ Experience
-Program	Focus	Duration
-Auspify	Data Analysis Using Python — data exploration, analysis, and interactive visualizations	4-week remote internship
-CodeOrbit Tech	Full-Stack Development — web applications and backend API projects	1.5-month internship
 
+<div align="center">
 
-✦ GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ANCHAL%20PATEL&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20%7C%20DATA%20ANALYTICS&descAlignY=60&descSize=13&color=0:171126,50:54205f,100:be3d83" width="100%" alt="Anchal Patel profile banner" />
+
+### B.Tech CSE Student · Babu Banarasi Das University, Lucknow
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=E879B9&center=true&vCenter=true&width=700&lines=Building+full-stack+applications;Exploring+AI%2FML+through+real+projects;Turning+data+into+useful+insights;Learning%2C+building%2C+and+improving+every+day" alt="Animated developer introduction" />
+
+<a href="https://linkedin.com/in/anchal-patel-59385a329"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/anchalvns2006-del"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/leet_anchal/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://x.com/royal01patel"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Discord-anchalpatel__79048-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science & Engineering student (2024–2028) interested in developing practical software, building data-driven applications, and learning applied machine learning.
+
+- 🎓 **B.Tech CSE** — Babu Banarasi Das University, Lucknow
+- 📚 **CGPA:** 8.29/10
+- 💻 **Focus:** Full-Stack Development, AI/ML, Data Analytics
+- 🌱 **Currently improving:** Java DSA, Python, backend development and machine learning
+- 🎯 **Looking for:** Software Engineering Internship opportunities and collaborative projects
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Data Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🤖 AI & Data Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anchalvns2006-del/RailNova-AI">🚆 RailNova AI</a></h3>
+      <p>Railway analytics and machine-learning dashboard for route exploration and timetable-based journey-duration prediction.</p>
+      <p><strong>Tech:</strong> Python · Pandas · scikit-learn · Plotly · Streamlit</p>
+      <p><strong>Dataset:</strong> 186,074 station records across 11,113 train-route combinations.</p>
+      <p><a href="https://anchalvns2006-del-railnova-ai-app-ppdaft.streamlit.app/">↗ Live Dashboard</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anchalvns2006-del/Auspify-Netflix-Data-Analysis">📊 Netflix Data Analysis</a></h3>
+      <p>Exploratory analysis of Netflix titles, uncovering content patterns through interactive visual storytelling.</p>
+      <p><strong>Tech:</strong> Python · Pandas · NumPy · Plotly</p>
+      <p><strong>Analysis:</strong> 8,790 records and 35 interactive visualizations.</p>
+      <p><a href="https://github.com/anchalvns2006-del/Auspify-Netflix-Data-Analysis">↗ View Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+### 💻 Full-Stack Applications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anchalvns2006-del/CodeAlpha-Event-Registration">🎟️ EventSphere</a></h3>
+      <p>Event registration platform with user authentication and event management workflows.</p>
+      <p><strong>Tech:</strong> Node.js · Express · MongoDB · JWT</p>
+      <p><a href="https://github.com/anchalvns2006-del/CodeAlpha-Event-Registration">↗ View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anchalvns2006-del/DineFlow-Restaurant-Management">🍽️ DineFlow</a></h3>
+      <p>Restaurant management application covering menus, orders, reservations, inventory and reports.</p>
+      <p><strong>Tech:</strong> Node.js · Express · MongoDB · JavaScript</p>
+      <p><a href="https://github.com/anchalvns2006-del/DineFlow-Restaurant-Management">↗ View Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+### 🔧 Backend & API Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [To-Do App](https://github.com/anchalvns2006-del/CodeOrbit-todo-App) | Task management application | Full Stack · JavaScript |
+| [REST API](https://github.com/anchalvns2006-del/CodeOrbit-REST-API) | RESTful API development project | Node.js · Express |
+| [Auth API](https://github.com/anchalvns2006-del/CodeOrbit-Auth-API) | User registration and login API | Node.js · Express · JWT |
+
+### 🛰️ Hackathon Project
+
+**OreSight AI — SIH PS26009**
+
+An AI/ML and space-technology concept focused on identifying manganese reserve prospectivity and supporting mining intelligence for MOIL.
+
+---
+
+## Experience
+
+| Program | Work |
+|---|---|
+| **Auspify — Data Analysis Using Python** | 4-week remote internship project involving data exploration, analysis and interactive visualizations. |
+| **CodeOrbit Tech — Full-Stack Development** | 1.5-month internship involving practical web application and backend API projects. |
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anchalvns2006-del&show_icons=true&hide_border=true&bg_color=171126&title_color=E879B9&text_color=E9D5FF&icon_color=F472B6&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalvns2006-del&layout=compact&hide_border=true&bg_color=171126&title_color=E879B9&text_color=E9D5FF&langs_count=6" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anchalvns2006-del&hide_border=true&background=171126&ring=E879B9&fire=F472B6&currStreakLabel=E879B9&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anchalvns2006-del&bg_color=171126&color=E9D5FF&line=E879B9&point=F472B6&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
+
+---
+
+## Let's Connect
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anchalvns2006-del&show_icons=true&hide_border=true&bg_color=140C1F&title_color=F0ABFC&text_color=FCE7F3&icon_color=FB7185&rank_icon=github" alt="Anchal's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalvns2006-del&layout=compact&hide_border=true&bg_color=140C1F&title_color=F0ABFC&text_color=FCE7F3&langs_count=6" alt="Top languages" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=anchalvns2006-del&hide_border=true&background=140C1F&ring=E879F9&fire=FB7185&currStreakLabel=F0ABFC&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD" alt="GitHub contribution streak" />
-</p><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anchalvns2006-del&bg_color=140C1F&color=E9D5FF&line=E879F9&point=FB7185&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</p>✦ Beyond the Code
-- Practising problem-solving and Java DSA.
-- Exploring applied AI/ML through practical experiments.
-- Interested in collaborative development and open-source learning.
-- Building consistently and improving one project at a time.
-✦ Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/anchal-patel-59385a329"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/leet_anchal/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://x.com/royal01patel"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/anchalvns2006-del?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Discord-anchalpatel__79048-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username: anchalpatel_79048" />
-</p><p align="center"><i>Build with curiosity. Improve with consistency. Ship with purpose.</i></p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090713,50:6d28d9,100:db2777&height=115&section=footer" width="100%" alt="Profile footer banner" />
+  <a href="https://linkedin.com/in/anchal-patel-59385a329"><img src="https://img.shields.io/badge/LinkedIn-Anchal%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anchalvns2006-del"><img src="https://img.shields.io/badge/GitHub-anchalvns2006--del-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/leet_anchal/"><img src="https://img.shields.io/badge/LeetCode-leet__anchal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://x.com/royal01patel"><img src="https://img.shields.io/badge/X-royal01patel-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-anchalpatel__79048-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username" />
+</p>
+
+<div align="center">
+
+*Build with curiosity. Improve with consistency. Ship with purpose.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:be3d83,50:54205f,100:171126" width="100%" alt="Profile footer" />
+
+</div>
